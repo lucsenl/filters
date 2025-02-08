@@ -1,0 +1,51 @@
+! Title: ENL Filter
+! Homepage: https://github.com/lucsenl/filters
+
+# buananetpbun.github.io
+buananetpbun.github.io###myModal
+
+# meuguia.tv
+meuguia.tv##.ad
+meuguia.tv##li.divider
+
+# www.strava.com
+www.strava.com##.upgrade.nav-item
+
+# suamusica.com.br
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll.styles_layoutFiltersContainer__jehXq:nth-child(3) > div.infinite-scroll-component__outerdiv:last-child > div.infinite-scroll-component.styles_infiniteScroll___XS0f > div > div.styles_feedContainer__k1oZf > section.smContainer.row.g-0:last-child > div.styles_sidebar__eDbOf.col-md-4:nth-child(2)
+suamusica.com.br##.styles_listProfilesContainer__ij3sz, .styles_isSuggestion__0Qyw3
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll.styles_layoutFiltersContainer__jehXq:nth-child(3) > div.styles_desktopSearchContainer__BnTvw:last-child > div > section.smContainer.styles_grayed__wHhkT:first-child > div.row:last-child > div.col-md-12.col-lg-8:first-child > div.row:last-child > div.col-md-9:last-child > div.styles_contentSectionContainer__Jy3m2:last-child
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll.styles_layoutFiltersContainer__jehXq:nth-child(3) > div.styles_desktopSearchContainer__BnTvw:last-child > div > div.smContainer:last-child > div.styles_moreNews__FnJ0I > div.styles_contentSectionContainer__Jy3m2
+suamusica.com.br##.\.d-md-none, .col-lg-4
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll:nth-child(3) > section.home_homeContainer__3z7ef:last-child > div.smContainerFluid:nth-child(3) > div.smContainer > div.styles_contentSectionContainer__Jy3m2.styles_topNewsContainer__mJH2a:nth-child(5)
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll:nth-child(3) > section.home_homeContainer__3z7ef:last-child > div.smContainerFluid:nth-child(3) > div.smContainer > div.styles_contentSectionContainer__Jy3m2:nth-child(8)
+suamusica.com.br##.home_newsSession__EgQfw
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll:nth-child(3) > div:last-child > section.styles_albumContainer__c_MXv > section.smContainer.row.g-0:last-child > div.styles_contentSectionContainer__Jy3m2:last-child
+suamusica.com.br###__next > section:last-child > article.styles_layoutContainer__yr2pG.scroll:nth-child(3) > div:last-child > section.styles_albumContainer__c_MXv > section.smContainer.row.g-0:last-child > div.styles_albumBody__SAf8b.col-md-8:first-child > div.row.g-5:nth-child(3)
+suamusica.com.br###player > div.styles_playQueueContainer__1b4Xq:last-child 
+suamusica.com.br##.styles_tvContainer__bObkd.styles_contentSectionContainer__Jy3m2
+suamusica.com.br##.g-0.row.smContainer > .styles_contentSectionContainer__Jy3m2
+suamusica.com.br##.styles_moreNewsBottom__4I5BZ > .styles_contentSectionContainer__Jy3m2
+suamusica.com.br##div.col-md > .styles_contentSectionContainer__Jy3m2
+||accounts.google.com/gsi/iframe/select?client_id=416876163335-2q8e39ung76nvb5pgeejlct0tqsn6sfh.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=card&as=xYSSgSAi67zhcNH336m%2FUQ&is_itp=true&channel_id=7ea390eb9dedffbae5a19f644f6fb895ae50822cb96fdfbb15219488d29f3c6a&origin=https%3A%2F%2Fsuamusica.com.br$subdocument
+suamusica.com.br##div.styles_option__15ElN:nth-of-type(6)
+
+# www.netshoes.com.br
+www.netshoes.com.br##.overlay-floater
+
+# invidious.lunar.icu
+invidious.lunar.icu##div.h-box:nth-of-type(2)
+
+# mail.yahoo.com
+mail.yahoo.com##div[data-test-id="mail-right-rail"]
+
+# www.muambator.com.br
+www.muambator.com.br##.text-center.bg-warning
+
+# www.dropbox.com
+www.dropbox.com##.maestro-prompt-portal
+www.dropbox.com##.browse-suggest > div
+www.dropbox.com##.maestro-nav__home.maestro-nav__product
+
+# www.kom.club
+www.kom.club##div.challenge-list.col-sm-6:nth-of-type(5)
