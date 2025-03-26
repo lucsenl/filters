@@ -9,7 +9,7 @@ buananetpbun.github.io###myModal
 meuguia.tv##.ad
 meuguia.tv##li.divider
 
-# www.strava.com
+# strava.com
 www.strava.com##.upgrade.nav-item
 
 # suamusica.com.br
@@ -31,7 +31,7 @@ suamusica.com.br##div.col-md > .styles_contentSectionContainer__Jy3m2
 ||accounts.google.com/gsi/iframe/select?client_id=416876163335-2q8e39ung76nvb5pgeejlct0tqsn6sfh.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=card&as=xYSSgSAi67zhcNH336m%2FUQ&is_itp=true&channel_id=7ea390eb9dedffbae5a19f644f6fb895ae50822cb96fdfbb15219488d29f3c6a&origin=https%3A%2F%2Fsuamusica.com.br$subdocument
 suamusica.com.br##div.styles_option__15ElN:nth-of-type(6)
 
-# www.netshoes.com.br
+# netshoes.com.br
 www.netshoes.com.br##.overlay-floater
 
 # invidious.lunar.icu
@@ -40,13 +40,17 @@ invidious.lunar.icu##div.h-box:nth-of-type(2)
 # mail.yahoo.com
 mail.yahoo.com##div[data-test-id="mail-right-rail"]
 
-# www.muambator.com.br
+# muambator.com.br
 www.muambator.com.br##.text-center.bg-warning
 
-# www.dropbox.com
+# dropbox.com
 www.dropbox.com##.maestro-prompt-portal
 www.dropbox.com##.browse-suggest > div
 www.dropbox.com##.maestro-nav__home.maestro-nav__product
 
-# www.kom.club
+# kom.club
 www.kom.club##div.challenge-list.col-sm-6:nth-of-type(5)
+
+! ipparrot.net
+www.ipparrot.net##.faq
+
